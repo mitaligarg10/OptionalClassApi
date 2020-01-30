@@ -1,5 +1,9 @@
-package com.stackroute.nullpointerexception;
+package com.stackroute.nullpointerexception.television;
 
+
+import com.stackroute.nullpointerexception.television.DisplayFeatures;
+import com.stackroute.nullpointerexception.television.HDR;
+import com.stackroute.nullpointerexception.television.Television;
 
 public class TelevisionService {
     public String getTelevisionHDRColour(Television television) {

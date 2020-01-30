@@ -1,4 +1,4 @@
-package com.stackroute.nullpointerexception;
+package com.stackroute.nullpointerexception.television;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package com.stackroute.nullpointerexception;
+package com.stackroute.nullpointerexception.television;
+
+import com.stackroute.nullpointerexception.television.DisplayFeatures;
 
 public class Television {
     private long id;
